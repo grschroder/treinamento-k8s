@@ -13,3 +13,12 @@ Baseado no exemplo: https://kubernetes.io/docs/tutorials/stateful-application/my
 ## Dicas:
 
 - Baixar a extensao do Kubernetes da Microsoft para o VS Code.
+- Baixar o kubectl: https://kubernetes.io/docs/tasks/tools/install-kubectl-windows/
+
+## Arquitetura do Kubernetes
+
+![Arquitetura](archietecture-master-workers.JPG "Arquitetura")
+
+## Arquitetura do Wordpress
+
+![Arquitetura](wordpress.JPG "Arquitetura")
